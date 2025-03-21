@@ -13,8 +13,7 @@ It includes a variety of programs, ranging from **basic syntax** to **advanced c
  📁 Basics/        → Beginner-level Java programs  
  📁 Intermediate/  → Intermediate Java concepts  
  📁 Advanced/      → Complex Java topics (Multithreading, OOP, etc.)  
- 📁 PracticeSets/  → Coding exercises and problem-solving  
- 📝 Basics.Addition_of_Three_numbers.java      → Combined practice programs  
+ 📁 PracticeSets/  → Coding exercises and problem-solving    
  📝 README.md      → Repository documentation  
 ```
 ✅ *Work in progress* – More topics and programs will be added over time!
