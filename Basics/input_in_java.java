@@ -1,3 +1,5 @@
+package Basics;
+
 import java.util.Scanner;
 public class input_in_java {
     public static void main(String[] args) {

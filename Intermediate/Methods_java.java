@@ -1,3 +1,5 @@
+package Intermediate;
+
 public class Methods_java {
     // if not static access modifier is default
      static int logic (int x, int y) {
@@ -12,7 +14,7 @@ public class Methods_java {
     }
     public static void main(String[] args) {
          // method invocation using object
-        //Methods_java obj = new Methods_java();
+        //Intermediate.Methods_java obj = new Intermediate.Methods_java();
         // c = obj.logic(a,b);
         int a = 3;
         int b = 2;

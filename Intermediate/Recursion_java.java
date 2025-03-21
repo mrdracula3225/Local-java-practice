@@ -1,3 +1,5 @@
+package Intermediate;
+
 import java.util.Scanner;
 public class Recursion_java {
     static int factorial(int n){

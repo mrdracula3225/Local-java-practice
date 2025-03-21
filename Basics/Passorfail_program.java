@@ -1,4 +1,5 @@
-import java.sql.SQLOutput;
+package Basics;
+
 import java.util.Scanner;
 public class Passorfail_program {
     public static void main(String[] args) {

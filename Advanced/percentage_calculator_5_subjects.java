@@ -1,3 +1,5 @@
+package Advanced;
+
 import java.util.Scanner;
 public class percentage_calculator_5_subjects {
     public static void main(String[] args) {

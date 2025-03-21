@@ -1,3 +1,5 @@
+package Intermediate;
+
 class mynewemployee{
     private int id;
     private String name;
@@ -15,7 +17,7 @@ class mynewemployee{
     public int getid(){
         return id;
     }
-    //    public mynewemployee(){
+    //    public Intermediate.mynewemployee(){
 //        id = 23;
 //        name = "Nawaz";
 //    }

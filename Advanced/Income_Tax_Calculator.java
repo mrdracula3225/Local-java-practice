@@ -1,3 +1,5 @@
+package Advanced;
+
 import java.util.Scanner;
 public class Income_Tax_Calculator {
     public static void main(String[] args) {

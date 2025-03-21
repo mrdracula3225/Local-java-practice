@@ -1,4 +1,5 @@
-import java.util.Scanner;
+package PracticeSets;
+
 public class Practice_4 {
     public static void main(String[] args) {
         // problem 1

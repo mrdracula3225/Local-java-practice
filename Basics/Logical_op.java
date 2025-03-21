@@ -1,3 +1,5 @@
+package Basics;
+
 public class Logical_op {
     public static void main(String[] args) {
         System.out.println("For Logical and.....");

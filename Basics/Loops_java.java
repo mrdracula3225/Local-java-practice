@@ -1,3 +1,5 @@
+package Basics;
+
 public class Loops_java {
     public static void main(String[] args) {
         // while loop | do while loop |

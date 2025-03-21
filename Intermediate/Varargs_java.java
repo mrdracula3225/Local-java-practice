@@ -1,3 +1,5 @@
+package Intermediate;
+
 public class Varargs_java {
     public static int add(int ...arr){
         int result = 0;
