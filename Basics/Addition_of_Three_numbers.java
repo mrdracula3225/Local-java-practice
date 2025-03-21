@@ -1,4 +1,6 @@
-public class Main {
+package Basics;
+
+public class Addition_of_Three_numbers {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
         int a= 6;
